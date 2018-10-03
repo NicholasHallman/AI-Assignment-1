@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\ngaha\documents\university 4\ai\a1\cp468_a1\cp468_a1\graph.h(62): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ngaha\documents\university 4\ai\a1\cp468_a1\cp468_a1\graph.h(59): note: while compiling class template member function 'void Graph<int>::Print(void)'
+  c:\users\ngaha\documents\university 4\ai\a1\cp468_a1\cp468_a1\main.cpp(15): note: see reference to function template instantiation 'void Graph<int>::Print(void)' being compiled
+  c:\users\ngaha\documents\university 4\ai\a1\cp468_a1\cp468_a1\main.cpp(11): note: see reference to class template instantiation 'Graph<int>' being compiled
+  cp468_a1.vcxproj -> C:\Users\ngaha\Documents\University 4\AI\a1\cp468_a1\Debug\cp468_a1.exe
